@@ -9,8 +9,7 @@ Data presented includes ballot ID, county and candidate name for the election at
 
 ## Results and Analysis
  Through creation of Python script to read/write data, perform calculations on counts, and use loops/conditional statements to analyze our findings. Utilizing Python and CSV through our data set, we determined the following:
- 
--369,711 votes were cast in the election
+ -369,711 votes were cast in the election
 -The three candidates for office included:
   -Charles Casper Stockham
   -Diana DeGette
