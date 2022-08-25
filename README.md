@@ -11,16 +11,16 @@ Data presented includes ballot ID, county and candidate name for the election at
  Through creation of Python script to read/write data, perform calculations on counts, and use loops/conditional statements to analyze our findings. Utilizing Python and CSV through our data set, we determined the following:
  1. 369,711 votes were cast in the election
  2. The three candidates for office included:
-  *Charles Casper Stockham
-  *Diana DeGette
-  *Raymon Anthony Doane
+  * Charles Casper Stockham
+  * Diana DeGette
+  * Raymon Anthony Doane
  3. Denver had the largest county turnout, with 82.8% (306,055 votes), followed by the below counties:
   *Jefferson County had 10.5% of the vote at 38,855 votes
   *Arapahoe County had 6.7% of the vote at 24,801 votes
  4. Results included the following:
-  *Charles Casper Stockham received 23.0% of the vote at 85,213 votes
-  *Diana DeGette received 73.8% of the vote at 272,892 votes
-  *Raymon Anthony Doane received 3.1% of the vote at 11,606 votes
+  * Charles Casper Stockham received 23.0% of the vote at 85,213 votes
+  * Diana DeGette received 73.8% of the vote at 272,892 votes
+  * Raymon Anthony Doane received 3.1% of the vote at 11,606 votes
  5. Diana DeGette was the overall election winner
 
 ![Election Results](https://user-images.githubusercontent.com/109991916/186733318-c32c5618-93ab-4df6-81a8-35d7d9986900.png)
