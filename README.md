@@ -24,7 +24,7 @@ Data presented includes ballot ID, county and candidate name for the election at
   -Raymon Anthony Doane received 3.1% of the vote at 11,606 votes
  -Diana DeGette was the overall election winner
 
-![image] https://github.com/blcalin/Election_Analysis/blob/main/Election%20Results.png
+https://github.com/blcalin/Election_Analysis/blob/main/Election%20Results.png
 
 ## Summary
 ### To the Election Commission
